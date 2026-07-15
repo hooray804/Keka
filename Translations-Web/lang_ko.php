@@ -9,7 +9,7 @@ $content_language_locale = "ko";
 //
 // Set $show_content_bottom_translator as true if you want to appear in the bottom of the page
 $show_content_bottom_translator = true;
-$content_bottom_translator = 'Translated by <a href="https://github.com/youngjinmo">DevAndy</a> and <a href="https://github.com/justcontributor">justcontributor</a>.';
+$content_bottom_translator = 'Translated by <a href="https://github.com/youngjinmo">DevAndy</a>, <a href="https://github.com/justcontributor">justcontributor</a>, and <a href="https://github.com/hooray804">hooray804</a>.';
 //
 //
 
@@ -39,25 +39,25 @@ $content_downloading_if_fails_click_here = "여기를 누르세요";
 
 // Like
 $content_donation_button = "후원하기";
-$content_donation_title = 'Keka를 좋아하신다면 <i class="fa fa-heart" aria-hidden="true"></i>를 주세요, <br />App Store에서 구입하시거나 후원해주세요!';
+$content_donation_title = 'Keka가 마음에 드신다면 <i class="fa fa-heart" aria-hidden="true"></i>를 따뜻한 응원을 보내주세요, <br />App Store에서 구매하시거나 후원금을 보내실 수 있습니다!';
 $content_donation_mas = "Keka를 App Store에서 구매하시면, Keka의 개발을 후원하게 됩니다.<br />웹 사이트에서 다운받는 Keka와 정확히 같은 버전이며, App Store를 통해 업데이트가 이루어집니다.";
-$content_donation_paypal = "App Store를 통한 후원을 원치않으시다면, <br />아래의 후원 방법으로 개발자를 도와주실수 있습니다!";
+$content_donation_paypal = "App Store를 통한 후원이 내키지 않거나, 부담 없이 Keka를 응원하고 싶으시다면<br />아래 후원 방식을 통해 소정의 팁을 보내실 수 있습니다.";
 
 // Beta
 $content_platform_beta = "베타 버전";
-$content_beta_title = "베타 버전 미리 경험하기";
-$content_beta_text = "출시 전 최신 기능들을 먼저 경험하실 수 있습니다.<br />버그를 찾았거나 제보할 것이 있으시다면,<br />이슈를 등록해주세요 ";
-$content_beta_unavailable = "현재 베타 버전이 존재하지 않습니다.";
-$content_beta_up = "최신 버전 받기";
+$content_beta_title = "Keka 베타 버전 미리 보기";
+$content_beta_text = "정식 출시 전에 Keka의 새로운 기능들을 미리 테스트해 볼 수 있습니다.<br />만약 버그를 발견하셨거나 의견을 남기고 싶으시다면 다음 페이지에 이슈를 남겨주세요: ";
+$content_beta_unavailable = "현재 제공 중인 베타 버전이 없습니다.";
+$content_beta_up = "최신 버전 다운로드";
 
 // Legacy
 $content_platform_legacy = "$version_replace 전용";
-$content_legacy_title = "구 버전 다운로드";
-$content_legacy_text = '운영체제의 버전에 따라 Keka의 최신버전을 지원하지 못할 경우<br />아래의 구버전을 다운로드하셔서 계속 Keka를 이용하실 수 있습니다. <i class="fa fa-coffee" aria-hidden="true"></i>';
+$content_legacy_title = "Keka 구 버전";
+$content_legacy_text = '시간이 흘러 Mac이 오래되어 최신 버전의 Keka를 쓸 수 없게 되더라도 걱정하지 마세요 <i class="fa fa-coffee" aria-hidden="true"></i>. 구 버전들은 언제나 이곳에서 다운로드하실 수 있습니다.';
 
 // Info
 $content_info_title1 = "쉽고 강력합니다.";
-$content_info_title2 = "Keka는 당신의 개인 정보를 안전하게 압축합니다.";
+$content_info_title2 = "개인정보 보호는 매우 중요합니다.";
 $content_info_title3 = "압축 파일의 용량이 너무 커서 공유할 수 없나요?";
 $content_info_text1 = "압축하기 위해 Keka를 실행할 필요가 없습니다.<br />파일과 폴더를 Dock 아이콘 또는 Keka 창에 끌어 놓아서, 압축 파일을 생성하세요.";
 $content_info_text2 = "암호화된 압축 파일을 안전하게 공유하세요.<br />Keka를 사용하시면, 7z 파일을 위한 AES-256 암호화 방식과<br />Zip 2.0 레거시 암호화 방식을 사용할 수 있습니다.";

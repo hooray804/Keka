@@ -33,13 +33,13 @@ $content_download_legacy = "구 버전";
 $content_download_helper = "도우미";
 $content_downloading = "다운로드 중: ";
 $content_get_platform = "설치 플랫폼: ";
-$content_testflight = "이 빌드를 설치하려면 TestFlight이 필요합니다.";
+$content_testflight = "이 빌드를 설치하려면 TestFlight가 필요합니다.";
 $content_downloading_if_fails = "다운로드가 자동으로 시작되지 않으면 ";
 $content_downloading_if_fails_click_here = "여기를 누르세요";
 
 // Like
 $content_donation_button = "후원하기";
-$content_donation_title = 'Keka가 마음에 드신다면 <i class="fa fa-heart" aria-hidden="true"></i>를 따뜻한 응원을 보내주세요, <br />App Store에서 구매하시거나 후원금을 보내실 수 있습니다!';
+$content_donation_title = 'Keka가 마음에 드신다면 <i class="fa fa-heart" aria-hidden="true"></i>로 따뜻한 응원을 보내주세요, <br />App Store에서 구매하시거나 후원금을 보내실 수 있습니다!';
 $content_donation_mas = "Keka를 App Store에서 구매하시면, Keka의 개발을 후원하게 됩니다.<br />웹 사이트에서 다운받는 Keka와 정확히 같은 버전이며, App Store를 통해 업데이트가 이루어집니다.";
 $content_donation_paypal = "App Store를 통한 후원이 내키지 않거나, 부담 없이 Keka를 응원하고 싶으시다면<br />아래 후원 방식을 통해 소정의 팁을 보내실 수 있습니다.";
 

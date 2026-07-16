@@ -42,7 +42,7 @@
 "Qst-Ya-feO.title" = "저장";
 
 /* Class = "NSMenuItem"; title = "Privacy Policy"; ObjectID = "Rkr-d9-A7d"; */
-"Rkr-d9-A7d.title" = "개인정보 보호 정책";
+"Rkr-d9-A7d.title" = "개인정보처리방침";
 
 /* Class = "NSMenuItem"; title = "Cut"; ObjectID = "Ro6-g5-CxU"; */
 "Ro6-g5-CxU.title" = "잘라내기";
